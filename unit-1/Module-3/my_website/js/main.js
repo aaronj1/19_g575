@@ -1,6 +1,6 @@
 var mydiv = document.getElementById("mydiv");
 mydiv.innerHTML = "City Population";
-window.onload = initialize();
+//window.onload = initialize();
 
 //initialize function called when the script loads
 function initialize(){
@@ -147,5 +147,4 @@ function debugAjax(){
     });
 };
 
-$(document).ready(debugAjax);
 $(document).ready(initialize);
