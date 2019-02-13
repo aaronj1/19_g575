@@ -6,6 +6,7 @@ window.onload = initialize();
 function initialize(){
     cities();
     jQueryAjax();
+    debugAjax();
 };
 
 //function to create a table with cities and their populations
