@@ -1,0 +1,1025 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.79113,32.806671 ]
+    },
+    "properties": {
+    "State":"Alabama",
+    "April 1, 2010 - Census":4779736,
+    "Population Estimate (as of July 1) - 2010":4785448,
+    "Population Estimate (as of July 1) - 2011":4798834,
+    "Population Estimate (as of July 1) - 2012":4815564,
+    "Population Estimate (as of July 1) - 2013":4830460,
+    "Population Estimate (as of July 1) - 2014":4842481,
+    "Population Estimate (as of July 1) - 2015":4853160,
+    "Population Estimate (as of July 1) - 2016":4864745,
+    "Population Estimate (as of July 1) - 2017":4875120,
+    "Population Estimate (as of July 1) - 2018":4887871
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.404419,61.370716 ]
+    },
+    "properties": {
+    "State":"Alaska",
+    "April 1, 2010 - Census":710231,
+    "Population Estimate (as of July 1) - 2010":713906,
+    "Population Estimate (as of July 1) - 2011":722038,
+    "Population Estimate (as of July 1) - 2012":730399,
+    "Population Estimate (as of July 1) - 2013":737045,
+    "Population Estimate (as of July 1) - 2014":736307,
+    "Population Estimate (as of July 1) - 2015":737547,
+    "Population Estimate (as of July 1) - 2016":741504,
+    "Population Estimate (as of July 1) - 2017":739786,
+    "Population Estimate (as of July 1) - 2018":737438
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.431221,33.729759 ]
+    },
+    "properties": {
+    "State":"Arizona",
+    "April 1, 2010 - Census":6392017,
+    "Population Estimate (as of July 1) - 2010":6407774,
+    "Population Estimate (as of July 1) - 2011":6473497,
+    "Population Estimate (as of July 1) - 2012":6556629,
+    "Population Estimate (as of July 1) - 2013":6634999,
+    "Population Estimate (as of July 1) - 2014":6733840,
+    "Population Estimate (as of July 1) - 2015":6833596,
+    "Population Estimate (as of July 1) - 2016":6945452,
+    "Population Estimate (as of July 1) - 2017":7048876,
+    "Population Estimate (as of July 1) - 2018":7171646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.373123,34.969704 ]
+    },
+    "properties": {
+    "State":"Arkansas",
+    "April 1, 2010 - Census":2915918,
+    "Population Estimate (as of July 1) - 2010":2921978,
+    "Population Estimate (as of July 1) - 2011":2940407,
+    "Population Estimate (as of July 1) - 2012":2952109,
+    "Population Estimate (as of July 1) - 2013":2959549,
+    "Population Estimate (as of July 1) - 2014":2967726,
+    "Population Estimate (as of July 1) - 2015":2978407,
+    "Population Estimate (as of July 1) - 2016":2990410,
+    "Population Estimate (as of July 1) - 2017":3002997,
+    "Population Estimate (as of July 1) - 2018":3013825
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.681564,36.116203 ]
+    },
+    "properties": {
+    "State":"California",
+    "April 1, 2010 - Census":37253956,
+    "Population Estimate (as of July 1) - 2010":37320903,
+    "Population Estimate (as of July 1) - 2011":37641823,
+    "Population Estimate (as of July 1) - 2012":37960782,
+    "Population Estimate (as of July 1) - 2013":38280824,
+    "Population Estimate (as of July 1) - 2014":38625139,
+    "Population Estimate (as of July 1) - 2015":38953142,
+    "Population Estimate (as of July 1) - 2016":39209127,
+    "Population Estimate (as of July 1) - 2017":39399349,
+    "Population Estimate (as of July 1) - 2018":39557045
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.311104,39.059811 ]
+    },
+    "properties": {
+    "State":"Colorado",
+    "April 1, 2010 - Census":5029196,
+    "Population Estimate (as of July 1) - 2010":5048281,
+    "Population Estimate (as of July 1) - 2011":5121771,
+    "Population Estimate (as of July 1) - 2012":5193721,
+    "Population Estimate (as of July 1) - 2013":5270482,
+    "Population Estimate (as of July 1) - 2014":5351218,
+    "Population Estimate (as of July 1) - 2015":5452107,
+    "Population Estimate (as of July 1) - 2016":5540921,
+    "Population Estimate (as of July 1) - 2017":5615902,
+    "Population Estimate (as of July 1) - 2018":5695564
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.755371,41.597782 ]
+    },
+    "properties": {
+    "State":"Connecticut",
+    "April 1, 2010 - Census":3574097,
+    "Population Estimate (as of July 1) - 2010":3579125,
+    "Population Estimate (as of July 1) - 2011":3588023,
+    "Population Estimate (as of July 1) - 2012":3594395,
+    "Population Estimate (as of July 1) - 2013":3594915,
+    "Population Estimate (as of July 1) - 2014":3594783,
+    "Population Estimate (as of July 1) - 2015":3587509,
+    "Population Estimate (as of July 1) - 2016":3578674,
+    "Population Estimate (as of July 1) - 2017":3573880,
+    "Population Estimate (as of July 1) - 2018":3572665
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.507141,39.318523 ]
+    },
+    "properties": {
+    "State":"Delaware",
+    "April 1, 2010 - Census":897934,
+    "Population Estimate (as of July 1) - 2010":899595,
+    "Population Estimate (as of July 1) - 2011":907316,
+    "Population Estimate (as of July 1) - 2012":915188,
+    "Population Estimate (as of July 1) - 2013":923638,
+    "Population Estimate (as of July 1) - 2014":932596,
+    "Population Estimate (as of July 1) - 2015":941413,
+    "Population Estimate (as of July 1) - 2016":949216,
+    "Population Estimate (as of July 1) - 2017":957078,
+    "Population Estimate (as of July 1) - 2018":967171
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.026817,38.897438 ]
+    },
+    "properties": {
+    "State":"District of Columbia",
+    "April 1, 2010 - Census":601723,
+    "Population Estimate (as of July 1) - 2010":605085,
+    "Population Estimate (as of July 1) - 2011":619602,
+    "Population Estimate (as of July 1) - 2012":634725,
+    "Population Estimate (as of July 1) - 2013":650431,
+    "Population Estimate (as of July 1) - 2014":662513,
+    "Population Estimate (as of July 1) - 2015":675254,
+    "Population Estimate (as of July 1) - 2016":686575,
+    "Population Estimate (as of July 1) - 2017":695691,
+    "Population Estimate (as of July 1) - 2018":702455
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.686783,27.766279 ]
+    },
+    "properties": {
+    "State":"Florida",
+    "April 1, 2010 - Census":18801310,
+    "Population Estimate (as of July 1) - 2010":18845785,
+    "Population Estimate (as of July 1) - 2011":19093352,
+    "Population Estimate (as of July 1) - 2012":19326230,
+    "Population Estimate (as of July 1) - 2013":19563166,
+    "Population Estimate (as of July 1) - 2014":19860330,
+    "Population Estimate (as of July 1) - 2015":20224249,
+    "Population Estimate (as of July 1) - 2016":20629982,
+    "Population Estimate (as of July 1) - 2017":20976812,
+    "Population Estimate (as of July 1) - 2018":21299325
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.643074,33.040619 ]
+    },
+    "properties": {
+    "State":"Georgia",
+    "April 1, 2010 - Census":9687653,
+    "Population Estimate (as of July 1) - 2010":9711810,
+    "Population Estimate (as of July 1) - 2011":9801578,
+    "Population Estimate (as of July 1) - 2012":9901496,
+    "Population Estimate (as of July 1) - 2013":9973326,
+    "Population Estimate (as of July 1) - 2014":10069001,
+    "Population Estimate (as of July 1) - 2015":10181111,
+    "Population Estimate (as of July 1) - 2016":10304763,
+    "Population Estimate (as of July 1) - 2017":10413055,
+    "Population Estimate (as of July 1) - 2018":10519475
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.498337,21.094318 ]
+    },
+    "properties": {
+    "State":"Hawaii",
+    "April 1, 2010 - Census":1360301,
+    "Population Estimate (as of July 1) - 2010":1363963,
+    "Population Estimate (as of July 1) - 2011":1379252,
+    "Population Estimate (as of July 1) - 2012":1394905,
+    "Population Estimate (as of July 1) - 2013":1408453,
+    "Population Estimate (as of July 1) - 2014":1414862,
+    "Population Estimate (as of July 1) - 2015":1422484,
+    "Population Estimate (as of July 1) - 2016":1428105,
+    "Population Estimate (as of July 1) - 2017":1424203,
+    "Population Estimate (as of July 1) - 2018":1420491
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.478828,44.240459 ]
+    },
+    "properties": {
+    "State":"Idaho",
+    "April 1, 2010 - Census":1567582,
+    "Population Estimate (as of July 1) - 2010":1570773,
+    "Population Estimate (as of July 1) - 2011":1583828,
+    "Population Estimate (as of July 1) - 2012":1595441,
+    "Population Estimate (as of July 1) - 2013":1611530,
+    "Population Estimate (as of July 1) - 2014":1631479,
+    "Population Estimate (as of July 1) - 2015":1651523,
+    "Population Estimate (as of July 1) - 2016":1682930,
+    "Population Estimate (as of July 1) - 2017":1718904,
+    "Population Estimate (as of July 1) - 2018":1754208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.986137,40.349457 ]
+    },
+    "properties": {
+    "State":"Illinois",
+    "April 1, 2010 - Census":12830632,
+    "Population Estimate (as of July 1) - 2010":12840762,
+    "Population Estimate (as of July 1) - 2011":12867291,
+    "Population Estimate (as of July 1) - 2012":12884119,
+    "Population Estimate (as of July 1) - 2013":12898269,
+    "Population Estimate (as of July 1) - 2014":12888962,
+    "Population Estimate (as of July 1) - 2015":12864342,
+    "Population Estimate (as of July 1) - 2016":12826895,
+    "Population Estimate (as of July 1) - 2017":12786196,
+    "Population Estimate (as of July 1) - 2018":12741080
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.258278,39.849426 ]
+    },
+    "properties": {
+    "State":"Indiana",
+    "April 1, 2010 - Census":6483802,
+    "Population Estimate (as of July 1) - 2010":6490436,
+    "Population Estimate (as of July 1) - 2011":6516045,
+    "Population Estimate (as of July 1) - 2012":6537640,
+    "Population Estimate (as of July 1) - 2013":6568367,
+    "Population Estimate (as of July 1) - 2014":6593533,
+    "Population Estimate (as of July 1) - 2015":6608296,
+    "Population Estimate (as of July 1) - 2016":6633344,
+    "Population Estimate (as of July 1) - 2017":6660082,
+    "Population Estimate (as of July 1) - 2018":6691878
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.210526,42.011539 ]
+    },
+    "properties": {
+    "State":"Iowa",
+    "April 1, 2010 - Census":3046355,
+    "Population Estimate (as of July 1) - 2010":3050767,
+    "Population Estimate (as of July 1) - 2011":3066054,
+    "Population Estimate (as of July 1) - 2012":3076097,
+    "Population Estimate (as of July 1) - 2013":3093078,
+    "Population Estimate (as of July 1) - 2014":3109504,
+    "Population Estimate (as of July 1) - 2015":3121460,
+    "Population Estimate (as of July 1) - 2016":3131785,
+    "Population Estimate (as of July 1) - 2017":3143637,
+    "Population Estimate (as of July 1) - 2018":3156145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.726486,38.5266 ]
+    },
+    "properties": {
+    "State":"Kansas",
+    "April 1, 2010 - Census":2853118,
+    "Population Estimate (as of July 1) - 2010":2858213,
+    "Population Estimate (as of July 1) - 2011":2869035,
+    "Population Estimate (as of July 1) - 2012":2885361,
+    "Population Estimate (as of July 1) - 2013":2893510,
+    "Population Estimate (as of July 1) - 2014":2900896,
+    "Population Estimate (as of July 1) - 2015":2909502,
+    "Population Estimate (as of July 1) - 2016":2911263,
+    "Population Estimate (as of July 1) - 2017":2910689,
+    "Population Estimate (as of July 1) - 2018":2911505
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.670067,37.66814 ]
+    },
+    "properties": {
+    "State":"Kentucky",
+    "April 1, 2010 - Census":4339367,
+    "Population Estimate (as of July 1) - 2010":4348200,
+    "Population Estimate (as of July 1) - 2011":4369488,
+    "Population Estimate (as of July 1) - 2012":4386381,
+    "Population Estimate (as of July 1) - 2013":4404817,
+    "Population Estimate (as of July 1) - 2014":4414483,
+    "Population Estimate (as of July 1) - 2015":4425999,
+    "Population Estimate (as of July 1) - 2016":4438229,
+    "Population Estimate (as of July 1) - 2017":4453874,
+    "Population Estimate (as of July 1) - 2018":4468402
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.867805,31.169546 ]
+    },
+    "properties": {
+    "State":"Louisiana",
+    "April 1, 2010 - Census":4533372,
+    "Population Estimate (as of July 1) - 2010":4544532,
+    "Population Estimate (as of July 1) - 2011":4575184,
+    "Population Estimate (as of July 1) - 2012":4600814,
+    "Population Estimate (as of July 1) - 2013":4624577,
+    "Population Estimate (as of July 1) - 2014":4644204,
+    "Population Estimate (as of July 1) - 2015":4664851,
+    "Population Estimate (as of July 1) - 2016":4678215,
+    "Population Estimate (as of July 1) - 2017":4670818,
+    "Population Estimate (as of July 1) - 2018":4659978
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.381927,44.693947 ]
+    },
+    "properties": {
+    "State":"Maine",
+    "April 1, 2010 - Census":1328361,
+    "Population Estimate (as of July 1) - 2010":1327632,
+    "Population Estimate (as of July 1) - 2011":1328150,
+    "Population Estimate (as of July 1) - 2012":1327691,
+    "Population Estimate (as of July 1) - 2013":1328196,
+    "Population Estimate (as of July 1) - 2014":1330760,
+    "Population Estimate (as of July 1) - 2015":1328484,
+    "Population Estimate (as of July 1) - 2016":1331370,
+    "Population Estimate (as of July 1) - 2017":1335063,
+    "Population Estimate (as of July 1) - 2018":1338404
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.802101,39.063946 ]
+    },
+    "properties": {
+    "State":"Maryland",
+    "April 1, 2010 - Census":5773552,
+    "Population Estimate (as of July 1) - 2010":5788642,
+    "Population Estimate (as of July 1) - 2011":5838991,
+    "Population Estimate (as of July 1) - 2012":5887072,
+    "Population Estimate (as of July 1) - 2013":5923704,
+    "Population Estimate (as of July 1) - 2014":5958165,
+    "Population Estimate (as of July 1) - 2015":5986717,
+    "Population Estimate (as of July 1) - 2016":6004692,
+    "Population Estimate (as of July 1) - 2017":6024891,
+    "Population Estimate (as of July 1) - 2018":6042718
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.530106,42.230171 ]
+    },
+    "properties": {
+    "State":"Massachusetts",
+    "April 1, 2010 - Census":6547629,
+    "Population Estimate (as of July 1) - 2010":6566431,
+    "Population Estimate (as of July 1) - 2011":6613149,
+    "Population Estimate (as of July 1) - 2012":6663158,
+    "Population Estimate (as of July 1) - 2013":6713944,
+    "Population Estimate (as of July 1) - 2014":6763652,
+    "Population Estimate (as of July 1) - 2015":6795891,
+    "Population Estimate (as of July 1) - 2016":6826022,
+    "Population Estimate (as of July 1) - 2017":6863246,
+    "Population Estimate (as of July 1) - 2018":6902149
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.536095,43.326618 ]
+    },
+    "properties": {
+    "State":"Michigan",
+    "April 1, 2010 - Census":9883640,
+    "Population Estimate (as of July 1) - 2010":9877535,
+    "Population Estimate (as of July 1) - 2011":9881521,
+    "Population Estimate (as of July 1) - 2012":9896930,
+    "Population Estimate (as of July 1) - 2013":9913349,
+    "Population Estimate (as of July 1) - 2014":9930589,
+    "Population Estimate (as of July 1) - 2015":9932573,
+    "Population Estimate (as of July 1) - 2016":9951890,
+    "Population Estimate (as of July 1) - 2017":9976447,
+    "Population Estimate (as of July 1) - 2018":9995915
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.900192,45.694454 ]
+    },
+    "properties": {
+    "State":"Minnesota",
+    "April 1, 2010 - Census":5303925,
+    "Population Estimate (as of July 1) - 2010":5310843,
+    "Population Estimate (as of July 1) - 2011":5345668,
+    "Population Estimate (as of July 1) - 2012":5376550,
+    "Population Estimate (as of July 1) - 2013":5413693,
+    "Population Estimate (as of July 1) - 2014":5451522,
+    "Population Estimate (as of July 1) - 2015":5482503,
+    "Population Estimate (as of July 1) - 2016":5523409,
+    "Population Estimate (as of July 1) - 2017":5568155,
+    "Population Estimate (as of July 1) - 2018":5611179
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.678696,32.741646 ]
+    },
+    "properties": {
+    "State":"Mississippi",
+    "April 1, 2010 - Census":2967297,
+    "Population Estimate (as of July 1) - 2010":2970536,
+    "Population Estimate (as of July 1) - 2011":2978470,
+    "Population Estimate (as of July 1) - 2012":2983767,
+    "Population Estimate (as of July 1) - 2013":2988797,
+    "Population Estimate (as of July 1) - 2014":2990623,
+    "Population Estimate (as of July 1) - 2015":2988693,
+    "Population Estimate (as of July 1) - 2016":2988298,
+    "Population Estimate (as of July 1) - 2017":2989663,
+    "Population Estimate (as of July 1) - 2018":2986530
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.288368,38.456085 ]
+    },
+    "properties": {
+    "State":"Missouri",
+    "April 1, 2010 - Census":5988927,
+    "Population Estimate (as of July 1) - 2010":5995976,
+    "Population Estimate (as of July 1) - 2011":6009641,
+    "Population Estimate (as of July 1) - 2012":6024081,
+    "Population Estimate (as of July 1) - 2013":6040658,
+    "Population Estimate (as of July 1) - 2014":6056293,
+    "Population Estimate (as of July 1) - 2015":6071745,
+    "Population Estimate (as of July 1) - 2016":6087203,
+    "Population Estimate (as of July 1) - 2017":6108612,
+    "Population Estimate (as of July 1) - 2018":6126452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.454353,46.921925 ]
+    },
+    "properties": {
+    "State":"Montana",
+    "April 1, 2010 - Census":989415,
+    "Population Estimate (as of July 1) - 2010":990722,
+    "Population Estimate (as of July 1) - 2011":997221,
+    "Population Estimate (as of July 1) - 2012":1003754,
+    "Population Estimate (as of July 1) - 2013":1013564,
+    "Population Estimate (as of July 1) - 2014":1021891,
+    "Population Estimate (as of July 1) - 2015":1030503,
+    "Population Estimate (as of July 1) - 2016":1040863,
+    "Population Estimate (as of July 1) - 2017":1053090,
+    "Population Estimate (as of July 1) - 2018":1062305
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.268082,41.12537 ]
+    },
+    "properties": {
+    "State":"Nebraska",
+    "April 1, 2010 - Census":1826341,
+    "Population Estimate (as of July 1) - 2010":1829536,
+    "Population Estimate (as of July 1) - 2011":1840538,
+    "Population Estimate (as of July 1) - 2012":1853323,
+    "Population Estimate (as of July 1) - 2013":1865414,
+    "Population Estimate (as of July 1) - 2014":1879522,
+    "Population Estimate (as of July 1) - 2015":1891507,
+    "Population Estimate (as of July 1) - 2016":1905924,
+    "Population Estimate (as of July 1) - 2017":1917575,
+    "Population Estimate (as of July 1) - 2018":1929268
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.055374,38.313515 ]
+    },
+    "properties": {
+    "State":"Nevada",
+    "April 1, 2010 - Census":2700551,
+    "Population Estimate (as of July 1) - 2010":2702464,
+    "Population Estimate (as of July 1) - 2011":2712799,
+    "Population Estimate (as of July 1) - 2012":2744566,
+    "Population Estimate (as of July 1) - 2013":2776972,
+    "Population Estimate (as of July 1) - 2014":2819012,
+    "Population Estimate (as of July 1) - 2015":2868666,
+    "Population Estimate (as of July 1) - 2016":2919772,
+    "Population Estimate (as of July 1) - 2017":2972405,
+    "Population Estimate (as of July 1) - 2018":3034392
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.563896,43.452492 ]
+    },
+    "properties": {
+    "State":"New Hampshire",
+    "April 1, 2010 - Census":1316470,
+    "Population Estimate (as of July 1) - 2010":1316777,
+    "Population Estimate (as of July 1) - 2011":1319815,
+    "Population Estimate (as of July 1) - 2012":1323962,
+    "Population Estimate (as of July 1) - 2013":1326408,
+    "Population Estimate (as of July 1) - 2014":1333223,
+    "Population Estimate (as of July 1) - 2015":1336294,
+    "Population Estimate (as of July 1) - 2016":1342373,
+    "Population Estimate (as of July 1) - 2017":1349767,
+    "Population Estimate (as of July 1) - 2018":1356458
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.521011,40.298904 ]
+    },
+    "properties": {
+    "State":"New Jersey",
+    "April 1, 2010 - Census":8791894,
+    "Population Estimate (as of July 1) - 2010":8799624,
+    "Population Estimate (as of July 1) - 2011":8827783,
+    "Population Estimate (as of July 1) - 2012":8845483,
+    "Population Estimate (as of July 1) - 2013":8858362,
+    "Population Estimate (as of July 1) - 2014":8866780,
+    "Population Estimate (as of July 1) - 2015":8870869,
+    "Population Estimate (as of July 1) - 2016":8874516,
+    "Population Estimate (as of July 1) - 2017":8888543,
+    "Population Estimate (as of July 1) - 2018":8908520
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.248482,34.840515 ]
+    },
+    "properties": {
+    "State":"New Mexico",
+    "April 1, 2010 - Census":2059179,
+    "Population Estimate (as of July 1) - 2010":2064588,
+    "Population Estimate (as of July 1) - 2011":2080395,
+    "Population Estimate (as of July 1) - 2012":2087549,
+    "Population Estimate (as of July 1) - 2013":2092792,
+    "Population Estimate (as of July 1) - 2014":2090342,
+    "Population Estimate (as of July 1) - 2015":2090211,
+    "Population Estimate (as of July 1) - 2016":2092789,
+    "Population Estimate (as of July 1) - 2017":2093395,
+    "Population Estimate (as of July 1) - 2018":2095428
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.948051,42.165726 ]
+    },
+    "properties": {
+    "State":"New York",
+    "April 1, 2010 - Census":19378102,
+    "Population Estimate (as of July 1) - 2010":19400080,
+    "Population Estimate (as of July 1) - 2011":19498514,
+    "Population Estimate (as of July 1) - 2012":19574549,
+    "Population Estimate (as of July 1) - 2013":19628043,
+    "Population Estimate (as of July 1) - 2014":19656330,
+    "Population Estimate (as of July 1) - 2015":19661411,
+    "Population Estimate (as of July 1) - 2016":19641589,
+    "Population Estimate (as of July 1) - 2017":19590719,
+    "Population Estimate (as of July 1) - 2018":19542209
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.806419,35.630066 ]
+    },
+    "properties": {
+    "State":"North Carolina",
+    "April 1, 2010 - Census":9535483,
+    "Population Estimate (as of July 1) - 2010":9574293,
+    "Population Estimate (as of July 1) - 2011":9656754,
+    "Population Estimate (as of July 1) - 2012":9749123,
+    "Population Estimate (as of July 1) - 2013":9843599,
+    "Population Estimate (as of July 1) - 2014":9933944,
+    "Population Estimate (as of July 1) - 2015":10033079,
+    "Population Estimate (as of July 1) - 2016":10156679,
+    "Population Estimate (as of July 1) - 2017":10270800,
+    "Population Estimate (as of July 1) - 2018":10383620
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.784012,47.528912 ]
+    },
+    "properties": {
+    "State":"North Dakota",
+    "April 1, 2010 - Census":672591,
+    "Population Estimate (as of July 1) - 2010":674710,
+    "Population Estimate (as of July 1) - 2011":685136,
+    "Population Estimate (as of July 1) - 2012":701116,
+    "Population Estimate (as of July 1) - 2013":721999,
+    "Population Estimate (as of July 1) - 2014":737382,
+    "Population Estimate (as of July 1) - 2015":754022,
+    "Population Estimate (as of July 1) - 2016":754353,
+    "Population Estimate (as of July 1) - 2017":755176,
+    "Population Estimate (as of July 1) - 2018":760077
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.764915,40.388783 ]
+    },
+    "properties": {
+    "State":"Ohio",
+    "April 1, 2010 - Census":11536504,
+    "Population Estimate (as of July 1) - 2010":11539327,
+    "Population Estimate (as of July 1) - 2011":11543463,
+    "Population Estimate (as of July 1) - 2012":11548369,
+    "Population Estimate (as of July 1) - 2013":11576576,
+    "Population Estimate (as of July 1) - 2014":11602973,
+    "Population Estimate (as of July 1) - 2015":11617850,
+    "Population Estimate (as of July 1) - 2016":11635003,
+    "Population Estimate (as of July 1) - 2017":11664129,
+    "Population Estimate (as of July 1) - 2018":11689442
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.928917,35.565342 ]
+    },
+    "properties": {
+    "State":"Oklahoma",
+    "April 1, 2010 - Census":3751351,
+    "Population Estimate (as of July 1) - 2010":3759632,
+    "Population Estimate (as of July 1) - 2011":3787821,
+    "Population Estimate (as of July 1) - 2012":3818600,
+    "Population Estimate (as of July 1) - 2013":3853205,
+    "Population Estimate (as of July 1) - 2014":3878367,
+    "Population Estimate (as of July 1) - 2015":3909831,
+    "Population Estimate (as of July 1) - 2016":3926769,
+    "Population Estimate (as of July 1) - 2017":3932640,
+    "Population Estimate (as of July 1) - 2018":3943079
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.070938,44.572021 ]
+    },
+    "properties": {
+    "State":"Oregon",
+    "April 1, 2010 - Census":3831074,
+    "Population Estimate (as of July 1) - 2010":3837532,
+    "Population Estimate (as of July 1) - 2011":3871728,
+    "Population Estimate (as of July 1) - 2012":3899118,
+    "Population Estimate (as of July 1) - 2013":3922908,
+    "Population Estimate (as of July 1) - 2014":3964106,
+    "Population Estimate (as of July 1) - 2015":4016918,
+    "Population Estimate (as of July 1) - 2016":4091404,
+    "Population Estimate (as of July 1) - 2017":4146592,
+    "Population Estimate (as of July 1) - 2018":4190713
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.209755,40.590752 ]
+    },
+    "properties": {
+    "State":"Pennsylvania",
+    "April 1, 2010 - Census":12702379,
+    "Population Estimate (as of July 1) - 2010":12711158,
+    "Population Estimate (as of July 1) - 2011":12744583,
+    "Population Estimate (as of July 1) - 2012":12766827,
+    "Population Estimate (as of July 1) - 2013":12776621,
+    "Population Estimate (as of July 1) - 2014":12789101,
+    "Population Estimate (as of July 1) - 2015":12785759,
+    "Population Estimate (as of July 1) - 2016":12783538,
+    "Population Estimate (as of July 1) - 2017":12790447,
+    "Population Estimate (as of July 1) - 2018":12807060
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.51178,41.680893 ]
+    },
+    "properties": {
+    "State":"Rhode Island",
+    "April 1, 2010 - Census":1052567,
+    "Population Estimate (as of July 1) - 2010":1053938,
+    "Population Estimate (as of July 1) - 2011":1053536,
+    "Population Estimate (as of July 1) - 2012":1054601,
+    "Population Estimate (as of July 1) - 2013":1055122,
+    "Population Estimate (as of July 1) - 2014":1056017,
+    "Population Estimate (as of July 1) - 2015":1056173,
+    "Population Estimate (as of July 1) - 2016":1057063,
+    "Population Estimate (as of July 1) - 2017":1056486,
+    "Population Estimate (as of July 1) - 2018":1057315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.945007,33.856892 ]
+    },
+    "properties": {
+    "State":"South Carolina",
+    "April 1, 2010 - Census":4625364,
+    "Population Estimate (as of July 1) - 2010":4635656,
+    "Population Estimate (as of July 1) - 2011":4671422,
+    "Population Estimate (as of July 1) - 2012":4717112,
+    "Population Estimate (as of July 1) - 2013":4764153,
+    "Population Estimate (as of July 1) - 2014":4823793,
+    "Population Estimate (as of July 1) - 2015":4892253,
+    "Population Estimate (as of July 1) - 2016":4958235,
+    "Population Estimate (as of July 1) - 2017":5021219,
+    "Population Estimate (as of July 1) - 2018":5084127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.438828,44.299782 ]
+    },
+    "properties": {
+    "State":"South Dakota",
+    "April 1, 2010 - Census":814180,
+    "Population Estimate (as of July 1) - 2010":816165,
+    "Population Estimate (as of July 1) - 2011":823484,
+    "Population Estimate (as of July 1) - 2012":833496,
+    "Population Estimate (as of July 1) - 2013":842270,
+    "Population Estimate (as of July 1) - 2014":849088,
+    "Population Estimate (as of July 1) - 2015":853933,
+    "Population Estimate (as of July 1) - 2016":862890,
+    "Population Estimate (as of July 1) - 2017":873286,
+    "Population Estimate (as of July 1) - 2018":882235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.692345,35.747845 ]
+    },
+    "properties": {
+    "State":"Tennessee",
+    "April 1, 2010 - Census":6346105,
+    "Population Estimate (as of July 1) - 2010":6355301,
+    "Population Estimate (as of July 1) - 2011":6397410,
+    "Population Estimate (as of July 1) - 2012":6451281,
+    "Population Estimate (as of July 1) - 2013":6493432,
+    "Population Estimate (as of July 1) - 2014":6540826,
+    "Population Estimate (as of July 1) - 2015":6590808,
+    "Population Estimate (as of July 1) - 2016":6645011,
+    "Population Estimate (as of July 1) - 2017":6708794,
+    "Population Estimate (as of July 1) - 2018":6770010
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.563461,31.054487 ]
+    },
+    "properties": {
+    "State":"Texas",
+    "April 1, 2010 - Census":25145561,
+    "Population Estimate (as of July 1) - 2010":25242679,
+    "Population Estimate (as of July 1) - 2011":25646227,
+    "Population Estimate (as of July 1) - 2012":26089620,
+    "Population Estimate (as of July 1) - 2013":26489464,
+    "Population Estimate (as of July 1) - 2014":26977142,
+    "Population Estimate (as of July 1) - 2015":27486814,
+    "Population Estimate (as of July 1) - 2016":27937492,
+    "Population Estimate (as of July 1) - 2017":28322717,
+    "Population Estimate (as of July 1) - 2018":28701845
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.862434,40.150032 ]
+    },
+    "properties": {
+    "State":"Utah",
+    "April 1, 2010 - Census":2763885,
+    "Population Estimate (as of July 1) - 2010":2775334,
+    "Population Estimate (as of July 1) - 2011":2814216,
+    "Population Estimate (as of July 1) - 2012":2853467,
+    "Population Estimate (as of July 1) - 2013":2897927,
+    "Population Estimate (as of July 1) - 2014":2937399,
+    "Population Estimate (as of July 1) - 2015":2982497,
+    "Population Estimate (as of July 1) - 2016":3042613,
+    "Population Estimate (as of July 1) - 2017":3103118,
+    "Population Estimate (as of July 1) - 2018":3161105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.710686,44.045876 ]
+    },
+    "properties": {
+    "State":"Vermont",
+    "April 1, 2010 - Census":625741,
+    "Population Estimate (as of July 1) - 2010":625880,
+    "Population Estimate (as of July 1) - 2011":626979,
+    "Population Estimate (as of July 1) - 2012":626063,
+    "Population Estimate (as of July 1) - 2013":626212,
+    "Population Estimate (as of July 1) - 2014":625218,
+    "Population Estimate (as of July 1) - 2015":625197,
+    "Population Estimate (as of July 1) - 2016":623644,
+    "Population Estimate (as of July 1) - 2017":624525,
+    "Population Estimate (as of July 1) - 2018":626299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.169968,37.769337 ]
+    },
+    "properties": {
+    "State":"Virginia",
+    "April 1, 2010 - Census":8001024,
+    "Population Estimate (as of July 1) - 2010":8023680,
+    "Population Estimate (as of July 1) - 2011":8100469,
+    "Population Estimate (as of July 1) - 2012":8185229,
+    "Population Estimate (as of July 1) - 2013":8253053,
+    "Population Estimate (as of July 1) - 2014":8312076,
+    "Population Estimate (as of July 1) - 2015":8362907,
+    "Population Estimate (as of July 1) - 2016":8410946,
+    "Population Estimate (as of July 1) - 2017":8465207,
+    "Population Estimate (as of July 1) - 2018":8517685
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.490494,47.400902 ]
+    },
+    "properties": {
+    "State":"Washington",
+    "April 1, 2010 - Census":6724540,
+    "Population Estimate (as of July 1) - 2010":6742902,
+    "Population Estimate (as of July 1) - 2011":6821655,
+    "Population Estimate (as of July 1) - 2012":6892876,
+    "Population Estimate (as of July 1) - 2013":6962906,
+    "Population Estimate (as of July 1) - 2014":7052439,
+    "Population Estimate (as of July 1) - 2015":7163543,
+    "Population Estimate (as of July 1) - 2016":7294680,
+    "Population Estimate (as of July 1) - 2017":7425432,
+    "Population Estimate (as of July 1) - 2018":7535591
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.954453,38.491226 ]
+    },
+    "properties": {
+    "State":"West Virginia",
+    "April 1, 2010 - Census":1852994,
+    "Population Estimate (as of July 1) - 2010":1854214,
+    "Population Estimate (as of July 1) - 2011":1856074,
+    "Population Estimate (as of July 1) - 2012":1856764,
+    "Population Estimate (as of July 1) - 2013":1853873,
+    "Population Estimate (as of July 1) - 2014":1849467,
+    "Population Estimate (as of July 1) - 2015":1841996,
+    "Population Estimate (as of July 1) - 2016":1830929,
+    "Population Estimate (as of July 1) - 2017":1817048,
+    "Population Estimate (as of July 1) - 2018":1805832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.616508,44.268543 ]
+    },
+    "properties": {
+    "State":"Wisconsin",
+    "April 1, 2010 - Census":5686986,
+    "Population Estimate (as of July 1) - 2010":5690479,
+    "Population Estimate (as of July 1) - 2011":5704755,
+    "Population Estimate (as of July 1) - 2012":5719855,
+    "Population Estimate (as of July 1) - 2013":5736952,
+    "Population Estimate (as of July 1) - 2014":5751974,
+    "Population Estimate (as of July 1) - 2015":5761406,
+    "Population Estimate (as of July 1) - 2016":5772958,
+    "Population Estimate (as of July 1) - 2017":5792051,
+    "Population Estimate (as of July 1) - 2018":5813568
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.30249,42.755966 ]
+    },
+    "properties": {
+    "State":"Wyoming",
+    "April 1, 2010 - Census":563626,
+    "Population Estimate (as of July 1) - 2010":564483,
+    "Population Estimate (as of July 1) - 2011":567224,
+    "Population Estimate (as of July 1) - 2012":576270,
+    "Population Estimate (as of July 1) - 2013":582123,
+    "Population Estimate (as of July 1) - 2014":582548,
+    "Population Estimate (as of July 1) - 2015":585668,
+    "Population Estimate (as of July 1) - 2016":584290,
+    "Population Estimate (as of July 1) - 2017":578934,
+    "Population Estimate (as of July 1) - 2018":577737
+    }
+  }
+]
+}
