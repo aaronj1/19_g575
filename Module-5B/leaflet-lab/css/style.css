@@ -1,0 +1,26 @@
+/* Stylesheet by Aaron Jing, 2019 */
+#mapid {
+    height: 600px;
+}
+#panel {
+    width: 26%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    line-height: 42px;
+}
+
+.leaflet-popup-pane p {
+    margin: 0.2em 0;
+}
+.range-slider {
+    width: 50%;
+}
+#forward {
+    float: right;
+}
+#reverse {
+    float: left;
+}
+
