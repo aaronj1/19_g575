@@ -16,7 +16,7 @@ info.onAdd = function (mymap) {
 };
 
 info.update = function (props) {
-    this._div.innerHTML = '<h4>US Population by State</h4>' + '</b>' + 'To begin, use the buttons on the bottom left to choose the type of map.';
+    this._div.innerHTML = '<h4>US Population by State from 2010-2018</h4>' + '</b>' + 'To begin, use the buttons on the bottom left to choose the type of map.';
 };
 info.addTo(mymap);
 
@@ -546,7 +546,7 @@ var legend = L.control(
                        {
                        position: 'bottomright'
                        });
-legend.onAdd = function (mymap)
+legend.onAdd = function (mymap) 
 
 //Set and show the class breaks for the Choropleth map
 {
@@ -614,8 +614,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 function createChoroplethMap() {
     var index = 0;
-    
-    //create range input element (slider)
     var container;
     var index;
     
@@ -655,7 +653,6 @@ function createChoroplethMap() {
     
     //input listener for slider
     $('.range-slider').on('input', function(){
-                          
                           index = $(this).val();
                           reload();
                           //sequence
@@ -744,18 +741,19 @@ function createChoroplethMap() {
     // method that we will use to update the control based on feature properties passed
     info.update = function (props) {
         var attribute = getAttribute(index);
-        this._div.innerHTML = '<h4>US Population by State</h4>' + (props ?
+        var year = attribute.split(" - ")[1];
+        this._div.innerHTML = '<h4>US Population by State in ' + year + '</h4>' + (props ?
                                                                     '<b>' + props.name + '</b><br />' + attribute + ': ' + props[attribute]
                                                                     : 'Hover over a state to see the population');
     };
-    info.addTo(mymap);
-    load();
     
+    load();
     function load() {
         geojson = L.geoJson(statesData, {
                             style: style,
                             onEachFeature: onEachFeature,
                             }).addTo(mymap);
+        info.addTo(mymap);
     }
     
     function reload() {
@@ -764,6 +762,7 @@ function createChoroplethMap() {
                             style: style,
                             onEachFeature: onEachFeature,
                             }).addTo(mymap);
+        info.addTo(mymap);
     }
 };
 
