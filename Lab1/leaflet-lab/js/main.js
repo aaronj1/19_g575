@@ -743,7 +743,7 @@ function createChoroplethMap() {
         var attribute = getAttribute(index);
         this._div.innerHTML = '<h4>US Population by State</h4>' + (props ?
                                                                     '<b>' + props.name + '</b><br />' + attribute + ': ' + props[attribute]
-                                                                    : 'Hover over a state');
+                                                                    : 'Hover over a state to see the population');
     };
     info.addTo(mymap);
     load();
@@ -878,7 +878,7 @@ function createPropSymbols(data, map){
     
     // method that we will use to update the control based on feature properties passed
     info.update = function (props) {
-        this._div.innerHTML = '<h4>US Population by State</h4>' + '</b>' + 'Hover over a state';
+        this._div.innerHTML = '<h4>US Population by State</h4>' + '</b>' + 'Hover over a circle to see the population';
     };
     info.addTo(mymap);
 };
@@ -986,6 +986,7 @@ function updatePropSymbols(map, attribute){
 
 //creates legend
 function createLegend(map, attribute){
+    
     var LegendControl = L.Control.extend({
                                          options: {
                                          position: 'bottomright'
@@ -1063,16 +1064,16 @@ function getCircleValues(map, attribute){
     map.eachLayer(function(layer){
                   //get the attribute value
                   if (layer.feature){
-                  var attributeValue = Number(layer.feature.properties[attribute]);
+                    var attributeValue = Number(layer.feature.properties[attribute]);
                   
                   //test for min
                   if (attributeValue < min){
-                  min = attributeValue;
+                    min = attributeValue;
                   };
                   
                   //test for max
                   if (attributeValue > max){
-                  max = attributeValue;
+                    max = attributeValue;
                   };
                   };
                   });
