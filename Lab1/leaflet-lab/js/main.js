@@ -541,12 +541,14 @@ $('#panel').append('<button class="type" id="prop">Proportional Symbol Map</butt
 $('#panel').append('<button class="type" id="chor">Choropleth Map</button>');
 $('#panel').append('<button class="type" id="reset">Reset</button>');
 
+//Legend for the Choropleth map
 var legend = L.control(
                        {
                        position: 'bottomright'
                        });
 legend.onAdd = function (mymap)
 
+//Set and show the class breaks for the Choropleth map
 {
     var div = L.DomUtil.create('div', 'info legend'),
     grades = [0, 750000, 1350000, 3100000, 4700000, 6000000, 7000000, 9700000, 13000000, Infinity],
@@ -567,6 +569,7 @@ mymap.on('baselayerchange', function (e) {
          document.getElementById("panel").style.visibility = "visible";
          });
 
+//Resets the map to the default setup when the user clicks the Reset button
 document.getElementById('reset').onclick = function clicked(){
     window.location.hash = '';
     window.location.reload();
@@ -665,27 +668,27 @@ function createChoroplethMap() {
                      index = $('.range-slider').val();
                      
                      
-                     //Step 6: increment or decrement depending on button clicked
+                     //increment or decrement depending on button clicked
                      if ($(this).attr('id') == 'forward'){
                      index++;
-                     //Step 7: if past the last attribute, wrap around to first attribute
+                     //if past the last attribute, wrap around to first attribute
                      index = index > 8 ? 0 : index;
                      } else if ($(this).attr('id') == 'reverse'){
                      index--;
-                     //Step 7: if past the first attribute, wrap around to last attribute
+                     //if past the first attribute, wrap around to last attribute
                      index = index < 0 ? 8 : index;
                      };
-                     
-                     //Step 8: update slider
+                     //update slider
                      $('.range-slider').val(index);
                      reload();
                      });
+    
     $('#reverse').html('<img src="img/reverse.png">');
     $('#forward').html('<img src="img/forward.png">');
-
+    
+    //sets the color of each state based on its population
     function style(feature) {
         var attribute = getAttribute(index);
-        
         return {
         fillColor: getColor(feature.properties[attribute]),
         weight: 2,
@@ -1000,6 +1003,7 @@ function createLegend(map, attribute){
                                          
                                          //start attribute legend svg string
                                          var svg = '<svg id="attribute-legend" width="180px" height="180px">';
+                                         
                                          //sets the position of the text that represents the population
                                          var circles = {max: 14,
                                          mean: 60,
@@ -1104,6 +1108,7 @@ function createPopup(properties, attribute, layer, radius){
                     });
 };
 
+//Used for setting the color of the states for the Choropleth map, based on its population
 function getColor(d)
 {
     return d >= 13000000 ? '#00441b' :
