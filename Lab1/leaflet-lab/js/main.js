@@ -615,7 +615,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 function createChoroplethMap() {
     var index = 0;
     var container;
-    var index;
     
     var SequenceControl = L.Control.extend({
                                            options: {
@@ -1114,7 +1113,7 @@ function createPopup(properties, attribute, layer, radius){
     
     //add formatted attribute to panel content string
     var year = attribute.split(" - ")[1];
-    popupContent += "<p><b>Population in " + year + ":</b> " + properties[attribute];
+    popupContent += "<p><b>Population Estimate as of July 1, " + year + ":</b> " + properties[attribute];
     
     //replace the layer popup
     layer.bindPopup(popupContent, {
