@@ -706,9 +706,7 @@ function createChoroplethMap() {
                        fillOpacity: 0.7
                        });
         
-        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-            layer.bringToFront();
-        }
+        layer.bringToFront();
         info.update(layer.feature.properties);
     }
     
@@ -788,6 +786,7 @@ function getData(mymap){
                 createSequenceControls(mymap, attributes);
                 createLegend(mymap, attributes[0]);
                 updateLegend(mymap, attributes[0]);
+                updateHeader();
            }
     });
 };
@@ -880,9 +879,10 @@ function createPropSymbols(data, map){
     
     // method that we will use to update the control based on feature properties passed
     info.update = function (props) {
+        //var attribute = getAttribute(index);
+        //var year = attribute.split(" - ")[1];
         this._div.innerHTML = '<h4>US Population by State</h4>' + '</b>' + 'Hover over a circle to see the population';
     };
-    info.addTo(mymap);
 };
 
 //calculate the radius of each proportional symbol
@@ -898,11 +898,9 @@ function calcPropRadius(attValue) {
 };
 
 //Create new sequence controls
+var index = 0;
 function createSequenceControls(mymap, attributes){
-    //create range input element (slider)
     var container;
-    var index;
-    
     var SequenceControl = L.Control.extend({
                                            options: {
                                            position: 'bottomleft'
@@ -913,7 +911,6 @@ function createSequenceControls(mymap, attributes){
                                            container = L.DomUtil.create('div', 'sequence-control-container');
                                            
                                            // ... initialize other DOM elements, add listeners, etc.
-                                           //create range input element (slider)
                                            //Create range input element (slider)
                                            $(container).append('<input class="range-slider" type="range">');
                                            
@@ -941,7 +938,7 @@ function createSequenceControls(mymap, attributes){
     $('.range-slider').on('input', function(){
                           index = $(this).val();
                           //sequence
-                            updatePropSymbols(mymap, attributes[index]);
+                          updatePropSymbols(mymap, attributes[index]);
                           });
     
     //click listener for buttons
@@ -968,6 +965,23 @@ function createSequenceControls(mymap, attributes){
     $('#forward').html('<img src="img/forward.png">');
 };
 
+var info1 = L.control();
+//Updates the upper right header based on the current year of the data
+function updateHeader() {
+info1.onAdd = function (mymap) {
+    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+    this.update();
+    return this._div;
+};
+// method that we will use to update the control based on feature properties passed
+info1.update = function (props) {
+    var attribute = getAttribute(index);
+    var year = attribute.split(" - ")[1];
+    this._div.innerHTML = '<h4>US Population by State in ' + year + '</h4>' + '</b>' + 'Hover over a circle to see the population';
+};
+info1.addTo(mymap);
+}
+
 function updatePropSymbols(map, attribute){
     map.eachLayer(function(layer){
                   if (layer.feature && layer.feature.properties[attribute]){
@@ -984,6 +998,7 @@ function updatePropSymbols(map, attribute){
                 
                   };
                   });
+    updateHeader();
 };
 
 //creates legend
