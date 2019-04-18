@@ -1,16 +1,51 @@
 /* Stylesheet by Aaron Jing, 2019 */
-#mapid {
-    height: 600px;
-    width: 100%
-    display: inline-block;
+.chart {
+    background-color: rgba(128,128,128,.2);
+    border: medium solid #999;
+    margin: 7px 20px 0 0;
 }
-#panel {
-    width: 26%;
-    padding: 20px;
-    display: inline-block;
-    vertical-align: top;
-    text-align: center;
-    line-height: 42px;
+
+.chartTitle {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    fill: red;
+}
+
+.chartBackground {
+    fill: rgba(128,128,128,0);
+}
+
+.chartFrame {
+    fill: none;
+    shape-rendering: crispEdges;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 0.8em;
+    fill: #999;
+}
+
+.xAxis path,
+.xAxis line {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+.xAxis text {
+    font-family: sans-serif;
+    font-size: 0.8em;
+    fill: #999;
 }
 
 .gratBackground {
@@ -23,18 +58,20 @@
     stroke-width: 1px;
 }
 
+.regions {
+    stroke: #CCC;
+    stroke-width: 1.5px;
+    stroke-linecap: round;
+}
+
 .countries {
     fill: #FFF;
     stroke: #CCC;
-    stroke-width: 2px;
-}
-
-.chosen {
-    fill: #FF0000;
-    stroke: #CCC;
-    stroke-width: 2px;
+    stroke-width: 1.5px;
 }
 
 .map {
     border: medium solid #999;
+    margin: 10px 0 0 10px;
+    width:
 }
